@@ -633,7 +633,7 @@ def menu():
         print('Computer has won!')
         
     print("The game has ended")
-    print("Goodbye")
+    input("Press ENTER to exit")
 
 
 
